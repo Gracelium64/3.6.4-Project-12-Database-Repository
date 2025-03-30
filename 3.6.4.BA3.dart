@@ -88,6 +88,7 @@ class MockDataRepository implements DataBaseRepository{
       }
     }
   }
+  
   @override
   void deleteDaily(String dataTaskId) {
     for (int i = 0; i < dailyTasks.length; i++) {
