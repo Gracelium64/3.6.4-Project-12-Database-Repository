@@ -1,4 +1,5 @@
 method of adding and deleting tasks +/- copied from testing with CLI the functionality of the app idea and implemanting differant things we learned in class.
+identifying a task for action to be made upon is based on taskId that is given to each new task through a general taskId counter, no {else} conditions were written into the code under the assumption that through the UI the taskID will be given and not typed in by user.
 i am aware that it is not a final form of implemanting these functions, especially editing a task in a database.
 it is to my understanding that this matter (editing database entries) is still to be learned in the course and this interface has a lot to be changed until the final project submission at the end of the course.
 
